@@ -36,9 +36,9 @@ git clone https://github.com/nguyentuantai792003/eigenfaces.git
 3. Run the script:
 
 - Remove the command sign # of the function you want to use:
-    show_classification_report(x_test_pca, y_test, clf): show classification report
-    show_confusion_matrix(x_test_pca, y_test, clf): show confusion matrix
-    show_prediction(x_test_pca, x_test, y_test, m, n, clf): show a portion of predictions
+    - show_classification_report(x_test_pca, y_test, clf): show classification report
+    - show_confusion_matrix(x_test_pca, y_test, clf): show confusion matrix
+    - show_prediction(x_test_pca, x_test, y_test, m, n, clf): show a portion of predictions
 
 - Run python script
 
