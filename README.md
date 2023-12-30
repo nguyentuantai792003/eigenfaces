@@ -43,5 +43,5 @@ git clone https://github.com/nguyentuantai792003/eigenfaces.git
 - Run python script
 
 ```bash
-python3 eigenfaces.mat
+python3 eigenfaces.py
 ```
